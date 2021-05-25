@@ -10,4 +10,4 @@ how do I make **this** bold
 
 Here is an image from the web. 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw0ChMpNe0QRxpiQehE0SVAK&ust=1622014344784000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjnubio5PACFQAAAAAdAAAAABAD)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/raw/master/media/eye-calipers.jpg)
